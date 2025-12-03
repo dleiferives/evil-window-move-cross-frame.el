@@ -9,6 +9,9 @@ to the nearest window based on top-left coordinates.
 - Verbose debug mode for troubleshooting
 - Customizable keybindings (defaults to C-w h/j/k/l)
 
+*Note* Movement computed by the top left corner of the destination windows, so
+it will default accordingly.
+
 --
 
 Written because I just got some new monitors and I was getting annoyed by the
